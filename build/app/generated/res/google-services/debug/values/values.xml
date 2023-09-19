@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">946107261110-19ulnk4hcvefamd7aismia9586puhi4c.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">946107261110</string>
+    <string name="google_api_key" translatable="false">AIzaSyAH924HYGPaZ3Maruu9-AATPFlGtUePtM4</string>
+    <string name="google_app_id" translatable="false">1:946107261110:android:6b0190aec6561e07d68617</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAH924HYGPaZ3Maruu9-AATPFlGtUePtM4</string>
+    <string name="google_storage_bucket" translatable="false">cryptotrack-bc6be.appspot.com</string>
+    <string name="project_id" translatable="false">cryptotrack-bc6be</string>
+</resources>

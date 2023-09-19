@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\github projects\\Crypshow_Pricetracker\\cryphow\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\cea8be42762a5db8aa1c989e65a4010e\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\github projects\\Crypshow_Pricetracker\\cryphow\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\cea8be42762a5db8aa1c989e65a4010e\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\github projects\\Crypshow_Pricetracker\\cryphow\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\cea8be42762a5db8aa1c989e65a4010e\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\github projects\\Crypshow_Pricetracker\\cryphow\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\cea8be42762a5db8aa1c989e65a4010e\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\github projects\\Crypshow_Pricetracker\\cryphow\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\cea8be42762a5db8aa1c989e65a4010e\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    }
+]
